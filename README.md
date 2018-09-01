@@ -3,6 +3,11 @@
 2. install npm and nodejs
 3. install fuse.js (can skip --already included in repo)
 
+#### Browser notes
+
+SVG behavior varies across browsers. This code has been tested and built with **Chrome**. 
+Known to be broken with Safari, may or may not work with other browsers.
+
 #### Run javascript tests
 
 Install mocha with npm, then run:
